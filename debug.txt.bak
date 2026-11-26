@@ -1,0 +1,824 @@
+.../Tools/API_LIKE $ python app.py
+🚀 Server started - Smart Like System! (OB55 | 7H Token Cache)
+⏱️  Token Cache TTL = 25200s (7 hours)
+📁 Account files:
+   - accounts_ind.json (IND)
+   - accounts_br.json  (BR/US/SAC/NA)
+   - accounts_bd.json  (BD/RU)
+ * Serving Flask app 'app'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5069
+ * Running on http://192.168.1.2:5069
+Press CTRL+C to quit
+📂 Loading from: accounts_bd.json for server BD
+✅ Total 527 accounts loaded for BD
+🆕 [CACHE STORED] UID 8056825722 — cached for 7 hours
+✅ Token generated with UID: 8056825722
+📂 Loading from: accounts_bd.json for server BD
+✅ Total 527 accounts loaded for BD
+📊 Total: 527 | Fresh: 527 | Liked: 0
+🆕 [CACHE STORED] UID 8260360308 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209629 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206926 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212908 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201785 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260356432 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358540 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264427973 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212712 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206439 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826040 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208812 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211193 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207333 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211880 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212819 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202415 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201372 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270203552 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359457 — cached for 7 hours
+♻️ [CACHE HIT] UID 8056825722 — valid for 25193s more
+🆕 [CACHE STORED] UID 8260362722 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212831 — cached for 7 hours                                    🆕 [CACHE STORED] UID 8264428137 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205493 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204558 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208624 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359109 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207841 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201813 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264431431 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202549 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211084 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208644 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260361118 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207648 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264427334 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260362289 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260361217 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209091 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212931 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202322 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202393 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212476 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270213019 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056825755 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212102 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209079 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201800 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260360231 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206252 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209858 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359865 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202119 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260357470 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202535 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208922 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212823 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208787 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211634 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826360 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209153 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211329 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056825705 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207162 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208598 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208902 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202184 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260361102 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204922 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212114 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358810 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208886 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201689 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056825542 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208181 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201437 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208279 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212632 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208602 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202026 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826644 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212966 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211425 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211270 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358314 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826432 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270203147 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358568 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264428328 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260355453 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826460 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260363897 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208792 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201751 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260363504 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264428314 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202454 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260362083 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211394 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260361120 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260360579 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209907 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204395 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208119 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264431528 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211051 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826439 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260356896 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056824895 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260356435 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260355953 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212936 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212870 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201679 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264427795 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201422 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264428190 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260355947 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209098 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264431055 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205326 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207313 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260360648 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211178 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204703 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260356939 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208750 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208133 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201653 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270203771 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260357450 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211043 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260363638 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260360312 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358791 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205026 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270213017 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211011 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208223 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264432002 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359117 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209836 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205407 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207401 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211274 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209354 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208679 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260362399 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206592 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204773 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260360591 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208626 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212011 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212301 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208447 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208515 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211659 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208991 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205582 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207848 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209010 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260355991 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212267 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208817 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260355641 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206161 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212639 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260355891 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207832 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211247 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208485 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260357387 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260362367 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264427968 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260356276 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358797 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208942 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207161 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826447 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826230 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202817 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826233 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212930 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260361722 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826456 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211460 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826097 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206480 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205891 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270213015 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212723 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204750 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204400 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359141 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826542 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201712 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202257 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202655 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206128 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209763 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208837 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212981 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201636 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358265 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358808 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208324 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056825715 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056826543 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209319 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211204 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211012 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202403 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270208810 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212095 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206160 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204776 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209300 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212458 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212270 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359204 — cached for 7 hours
+🆕 [CACHE STORED] UID 8056825349 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202376 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260359828 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207731 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212080 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270206423 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270204092 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212288 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201547 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212912 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270201546 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270207427 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260361140 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264428179 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212075 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270213006 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260360209 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260362062 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202601 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270211054 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270209171 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212105 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358803 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212710 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264431083 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264428100 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270202286 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358798 — cached for 7 hours
+🆕 [CACHE STORED] UID 8264427538 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260363865 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270212154 — cached for 7 hours
+🆕 [CACHE STORED] UID 8270205594 — cached for 7 hours
+🆕 [CACHE STORED] UID 8260358785 — cached for 7 hours
+
+====================================================================
+🎯 TARGET UID : 1676656261
+🌍 SERVER     : BD
+====================================================================
+
+✅ SUCCESSFUL ACCOUNTS (254):
+   [   1] 8270206926  ✅
+   [   2] 8270212908  ✅
+   [   3] 8264427973  ✅
+   [   4] 8270201785  ✅
+   [   5] 8270206439  ✅
+   [   6] 8260356432  ✅
+   [   7] 8260360308  ✅
+   [   8] 8270207333  ✅
+   [   9] 8056826040  ✅
+   [  10] 8270208812  ✅
+   [  11] 8270209629  ✅
+   [  12] 8260358540  ✅
+   [  13] 8270212712  ✅
+   [  14] 8270211193  ✅
+   [  15] 8270212819  ✅
+   [  16] 8270203552  ✅
+   [  17] 8260359457  ✅
+   [  18] 8270201372  ✅
+   [  19] 8270202415  ✅
+   [  20] 8270211880  ✅
+   [  21] 8260362722  ✅
+   [  22] 8270205493  ✅
+   [  23] 8264428137  ✅
+   [  24] 8270212831  ✅
+   [  25] 8260359109  ✅
+   [  26] 8270208624  ✅
+   [  27] 8270207841  ✅
+   [  28] 8270201813  ✅
+   [  29] 8270204558  ✅
+   [  30] 8264431431  ✅
+   [  31] 8270202549  ✅
+   [  32] 8270211084  ✅
+   [  33] 8270208644  ✅
+   [  34] 8260361118  ✅
+   [  35] 8056825722  ✅
+   [  36] 8270207648  ✅
+   [  37] 8264427334  ✅
+   [  38] 8260361217  ✅
+   [  39] 8260362289  ✅
+   [  40] 8270209091  ✅
+   [  41] 8270212931  ✅
+   [  42] 8270202322  ✅
+   [  43] 8270202393  ✅
+   [  44] 8270212476  ✅
+   [  45] 8270213019  ✅
+   [  46] 8270212102  ✅
+   [  47] 8056825755  ✅
+   [  48] 8270209079  ✅
+   [  49] 8270201800  ✅
+   [  50] 8260360231  ✅
+   [  51] 8270206252  ✅
+   [  52] 8270209858  ✅
+   [  53] 8260359865  ✅
+   [  54] 8270202119  ✅
+   [  55] 8260357470  ✅
+   [  56] 8270202535  ✅
+   [  57] 8270212823  ✅
+   [  58] 8270208922  ✅
+   [  59] 8056826360  ✅
+   [  60] 8270208787  ✅
+   [  61] 8270211634  ✅
+   [  62] 8270211329  ✅
+   [  63] 8056825705  ✅
+   [  64] 8270207162  ✅
+   [  65] 8270209153  ✅
+   [  66] 8270208902  ✅
+   [  67] 8260361102  ✅
+   [  68] 8270202184  ✅
+   [  69] 8270204922  ✅
+   [  70] 8270212114  ✅
+   [  71] 8270208598  ✅
+   [  72] 8260358810  ✅
+   [  73] 8270201689  ✅
+   [  74] 8056825542  ✅
+   [  75] 8270208181  ✅
+   [  76] 8270208886  ✅
+   [  77] 8270208279  ✅
+   [  78] 8270201437  ✅
+   [  79] 8270212632  ✅
+   [  80] 8270202026  ✅
+   [  81] 8056826644  ✅
+   [  82] 8270212966  ✅
+   [  83] 8270208602  ✅
+   [  84] 8270211425  ✅
+   [  85] 8270211270  ✅
+   [  86] 8260358314  ✅
+   [  87] 8056826432  ✅
+   [  88] 8270203147  ✅
+   [  89] 8264428328  ✅
+   [  90] 8260358568  ✅
+   [  91] 8056826460  ✅
+   [  92] 8264431528  ✅
+   [  93] 8260355453  ✅
+   [  94] 8056826439  ✅
+   [  95] 8260363897  ✅
+   [  96] 8270201751  ✅
+   [  97] 8270208792  ✅
+   [  98] 8260360579  ✅
+   [  99] 8270211394  ✅
+   [ 100] 8270207401  ✅
+   [ 101] 8260362083  ✅
+   [ 102] 8264428314  ✅
+   [ 103] 8260356896  ✅
+   [ 104] 8270202454  ✅
+   [ 105] 8260363504  ✅
+   [ 106] 8260356435  ✅
+   [ 107] 8260361120  ✅
+   [ 108] 8270209907  ✅
+   [ 109] 8270204395  ✅
+   [ 110] 8270208119  ✅
+   [ 111] 8056824895  ✅
+   [ 112] 8270211051  ✅
+   [ 113] 8260355953  ✅
+   [ 114] 8270212936  ✅
+   [ 115] 8264432002  ✅
+   [ 116] 8270201422  ✅
+   [ 117] 8264431055  ✅
+   [ 118] 8264427795  ✅
+   [ 119] 8270201679  ✅
+   [ 120] 8270212870  ✅
+   [ 121] 8260355947  ✅
+   [ 122] 8264428190  ✅
+   [ 123] 8270205326  ✅
+   [ 124] 8270209098  ✅
+   [ 125] 8270207313  ✅
+   [ 126] 8270211178  ✅
+   [ 127] 8260360648  ✅
+   [ 128] 8260356939  ✅
+   [ 129] 8270204703  ✅
+   [ 130] 8270208133  ✅
+   [ 131] 8270201653  ✅
+   [ 132] 8260358791  ✅
+   [ 133] 8260363638  ✅
+   [ 134] 8270208750  ✅
+   [ 135] 8260360312  ✅
+   [ 136] 8270203771  ✅
+   [ 137] 8270205582  ✅
+   [ 138] 8260357450  ✅
+   [ 139] 8270211043  ✅
+   [ 140] 8270209354  ✅
+   [ 141] 8270205026  ✅
+   [ 142] 8270213017  ✅
+   [ 143] 8270206592  ✅
+   [ 144] 8270208223  ✅
+   [ 145] 8270211011  ✅
+   [ 146] 8270209836  ✅
+   [ 147] 8260359117  ✅
+   [ 148] 8270205407  ✅
+   [ 149] 8270204773  ✅
+   [ 150] 8270211274  ✅
+   [ 151] 8260360591  ✅
+   [ 152] 8260362399  ✅
+   [ 153] 8270208679  ✅
+   [ 154] 8270212301  ✅
+   [ 155] 8270207848  ✅
+   [ 156] 8270208626  ✅
+   [ 157] 8270208991  ✅
+   [ 158] 8270212011  ✅
+   [ 159] 8270211659  ✅
+   [ 160] 8270208515  ✅
+   [ 161] 8270208447  ✅
+   [ 162] 8260355991  ✅
+   [ 163] 8260355641  ✅
+   [ 164] 8270209010  ✅
+   [ 165] 8270208817  ✅
+   [ 166] 8270212267  ✅
+   [ 167] 8260356276  ✅
+   [ 168] 8270206161  ✅
+   [ 169] 8260355891  ✅
+   [ 170] 8270207832  ✅
+   [ 171] 8270212639  ✅
+   [ 172] 8270208485  ✅
+   [ 173] 8270208942  ✅
+   [ 174] 8260357387  ✅
+   [ 175] 8260362367  ✅
+   [ 176] 8264427968  ✅
+   [ 177] 8056826230  ✅
+   [ 178] 8260358797  ✅
+   [ 179] 8270211247  ✅
+   [ 180] 8270207161  ✅
+   [ 181] 8056826447  ✅
+   [ 182] 8270202817  ✅
+   [ 183] 8270212930  ✅
+   [ 184] 8056826233  ✅
+   [ 185] 8260361722  ✅
+   [ 186] 8056826456  ✅
+   [ 187] 8270211460  ✅
+   [ 188] 8056826097  ✅
+   [ 189] 8270206480  ✅
+   [ 190] 8270205891  ✅
+   [ 191] 8270213015  ✅
+   [ 192] 8270212723  ✅
+   [ 193] 8270204750  ✅
+   [ 194] 8270204400  ✅
+   [ 195] 8260359141  ✅
+   [ 196] 8056826542  ✅
+   [ 197] 8270201712  ✅
+   [ 198] 8270202257  ✅
+   [ 199] 8270202655  ✅
+   [ 200] 8270209763  ✅
+   [ 201] 8270201636  ✅
+   [ 202] 8260358265  ✅
+   [ 203] 8270212981  ✅
+   [ 204] 8270208324  ✅
+   [ 205] 8270206128  ✅
+   [ 206] 8056825715  ✅
+   [ 207] 8270208837  ✅
+   [ 208] 8270209319  ✅
+   [ 209] 8056826543  ✅
+   [ 210] 8260358808  ✅
+   [ 211] 8270211204  ✅
+   [ 212] 8270211012  ✅
+   [ 213] 8270208810  ✅
+   [ 214] 8270202403  ✅
+   [ 215] 8270212095  ✅
+   [ 216] 8270206160  ✅
+   [ 217] 8270204776  ✅
+   [ 218] 8270209300  ✅
+   [ 219] 8270212270  ✅
+   [ 220] 8260359204  ✅
+   [ 221] 8270202376  ✅
+   [ 222] 8056825349  ✅
+   [ 223] 8270212458  ✅
+   [ 224] 8260359828  ✅
+   [ 225] 8270207731  ✅
+   [ 226] 8270212080  ✅
+   [ 227] 8270204092  ✅
+   [ 228] 8270206423  ✅
+   [ 229] 8270212288  ✅
+   [ 230] 8270201547  ✅
+   [ 231] 8270212912  ✅
+   [ 232] 8270201546  ✅
+   [ 233] 8264428179  ✅
+   [ 234] 8270207427  ✅
+   [ 235] 8270212075  ✅
+   [ 236] 8260361140  ✅
+   [ 237] 8270213006  ✅
+   [ 238] 8260362062  ✅
+   [ 239] 8260360209  ✅
+   [ 240] 8270202601  ✅
+   [ 241] 8270211054  ✅
+   [ 242] 8270209171  ✅
+   [ 243] 8260358803  ✅
+   [ 244] 8264431083  ✅
+   [ 245] 8270212105  ✅
+   [ 246] 8270202286  ✅
+   [ 247] 8264428100  ✅
+   [ 248] 8270212710  ✅
+   [ 249] 8260358798  ✅
+   [ 250] 8264427538  ✅
+   [ 251] 8270212154  ✅
+   [ 252] 8260363865  ✅
+   [ 253] 8260358785  ✅
+   [ 254] 8270205594  ✅
+
+❌ FAILED ACCOUNTS (273):
+   [   1] 8260361498  ❌  (TOKEN_FAIL)
+   [   2] 8260359603  ❌  (TOKEN_FAIL)
+   [   3] 8056825404  ❌  (TOKEN_FAIL)
+   [   4] 8260358345  ❌  (TOKEN_FAIL)
+   [   5] 8260361257  ❌  (TOKEN_FAIL)
+   [   6] 8260358837  ❌  (TOKEN_FAIL)
+   [   7] 8270202858  ❌  (TOKEN_FAIL)
+   [   8] 8260362995  ❌  (TOKEN_FAIL)
+   [   9] 8270211456  ❌  (TOKEN_FAIL)
+   [  10] 8260358168  ❌  (TOKEN_FAIL)
+   [  11] 8260355496  ❌  (TOKEN_FAIL)
+   [  12] 8260368703  ❌  (TOKEN_FAIL)
+   [  13] 8270204110  ❌  (TOKEN_FAIL)
+   [  14] 8260363349  ❌  (TOKEN_FAIL)
+   [  15] 8260356958  ❌  (TOKEN_FAIL)
+   [  16] 8260366824  ❌  (TOKEN_FAIL)
+   [  17] 8270208974  ❌  (TOKEN_FAIL)
+   [  18] 8270208652  ❌  (TOKEN_FAIL)
+   [  19] 8270212259  ❌  (TOKEN_FAIL)
+   [  20] 8260358680  ❌  (TOKEN_FAIL)
+   [  21] 8270212214  ❌  (TOKEN_FAIL)
+   [  22] 8260368188  ❌  (TOKEN_FAIL)
+   [  23] 8260357089  ❌  (TOKEN_FAIL)
+   [  24] 8260368782  ❌  (TOKEN_FAIL)
+   [  25] 8260357948  ❌  (TOKEN_FAIL)
+   [  26] 8264427243  ❌  (TOKEN_FAIL)
+   [  27] 8260355909  ❌  (TOKEN_FAIL)
+   [  28] 8264427716  ❌  (TOKEN_FAIL)
+   [  29] 8264427625  ❌  (TOKEN_FAIL)
+   [  30] 8270208670  ❌  (TOKEN_FAIL)
+   [  31] 8270212156  ❌  (TOKEN_FAIL)
+   [  32] 8264428228  ❌  (TOKEN_FAIL)
+   [  33] 8270207883  ❌  (TOKEN_FAIL)
+   [  34] 8260364264  ❌  (TOKEN_FAIL)
+   [  35] 8270207642  ❌  (TOKEN_FAIL)
+   [  36] 8270212300  ❌  (TOKEN_FAIL)
+   [  37] 8260361405  ❌  (TOKEN_FAIL)
+   [  38] 8260361292  ❌  (TOKEN_FAIL)
+   [  39] 8260368744  ❌  (TOKEN_FAIL)
+   [  40] 8260355594  ❌  (TOKEN_FAIL)
+   [  41] 8260361946  ❌  (TOKEN_FAIL)
+   [  42] 8264427970  ❌  (TOKEN_FAIL)
+   [  43] 8270208686  ❌  (TOKEN_FAIL)
+   [  44] 8270204348  ❌  (TOKEN_FAIL)
+   [  45] 8260358192  ❌  (TOKEN_FAIL)
+   [  46] 8260357120  ❌  (TOKEN_FAIL)
+   [  47] 8270212067  ❌  (TOKEN_FAIL)
+   [  48] 8056825721  ❌  (TOKEN_FAIL)
+   [  49] 8270210940  ❌  (TOKEN_FAIL)
+   [  50] 8270201649  ❌  (TOKEN_FAIL)
+   [  51] 8270212993  ❌  (TOKEN_FAIL)
+   [  52] 8056826705  ❌  (TOKEN_FAIL)
+   [  53] 8270208641  ❌  (TOKEN_FAIL)
+   [  54] 8260355840  ❌  (TOKEN_FAIL)
+   [  55] 8270208607  ❌  (TOKEN_FAIL)
+   [  56] 8056826190  ❌  (TOKEN_FAIL)
+   [  57] 8270206939  ❌  (TOKEN_FAIL)
+   [  58] 8270201983  ❌  (TOKEN_FAIL)
+   [  59] 8260367173  ❌  (TOKEN_FAIL)
+   [  60] 8270212255  ❌  (TOKEN_FAIL)
+   [  61] 8270206150  ❌  (TOKEN_FAIL)
+   [  62] 8260366928  ❌  (TOKEN_FAIL)
+   [  63] 8260357095  ❌  (TOKEN_FAIL)
+   [  64] 8260358368  ❌  (TOKEN_FAIL)
+   [  65] 8270212933  ❌  (TOKEN_FAIL)
+   [  66] 8260356602  ❌  (TOKEN_FAIL)
+   [  67] 8260365249  ❌  (TOKEN_FAIL)
+   [  68] 8270202641  ❌  (TOKEN_FAIL)
+   [  69] 8260355867  ❌  (TOKEN_FAIL)
+   [  70] 8260366806  ❌  (TOKEN_FAIL)
+   [  71] 8056825380  ❌  (TOKEN_FAIL)
+   [  72] 8270211179  ❌  (TOKEN_FAIL)
+   [  73] 8260361599  ❌  (TOKEN_FAIL)
+   [  74] 8260362281  ❌  (TOKEN_FAIL)
+   [  75] 8260361549  ❌  (TOKEN_FAIL)
+   [  76] 8260360576  ❌  (TOKEN_FAIL)
+   [  77] 8260355843  ❌  (TOKEN_FAIL)
+   [  78] 8260364209  ❌  (TOKEN_FAIL)
+   [  79] 8270212805  ❌  (TOKEN_FAIL)
+   [  80] 8270206097  ❌  (TOKEN_FAIL)
+   [  81] 8260366086  ❌  (TOKEN_FAIL)
+   [  82] 8260355871  ❌  (TOKEN_FAIL)
+   [  83] 8270212269  ❌  (TOKEN_FAIL)
+   [  84] 8260358437  ❌  (TOKEN_FAIL)
+   [  85] 8260368748  ❌  (TOKEN_FAIL)
+   [  86] 8270212970  ❌  (TOKEN_FAIL)
+   [  87] 8270202061  ❌  (TOKEN_FAIL)
+   [  88] 8270211068  ❌  (TOKEN_FAIL)
+   [  89] 8270202025  ❌  (TOKEN_FAIL)
+   [  90] 8260355743  ❌  (TOKEN_FAIL)
+   [  91] 8260355988  ❌  (TOKEN_FAIL)
+   [  92] 8270206943  ❌  (TOKEN_FAIL)
+   [  93] 8260363706  ❌  (TOKEN_FAIL)
+   [  94] 8260355875  ❌  (TOKEN_FAIL)
+   [  95] 8260357926  ❌  (TOKEN_FAIL)
+   [  96] 8264431243  ❌  (TOKEN_FAIL)
+   [  97] 8260362013  ❌  (TOKEN_FAIL)
+   [  98] 8270208043  ❌  (TOKEN_FAIL)
+   [  99] 8260364472  ❌  (TOKEN_FAIL)
+   [ 100] 8260361481  ❌  (TOKEN_FAIL)
+   [ 101] 8270204895  ❌  (TOKEN_FAIL)
+   [ 102] 8260362347  ❌  (TOKEN_FAIL)
+   [ 103] 8056825815  ❌  (TOKEN_FAIL)
+   [ 104] 8264428050  ❌  (TOKEN_FAIL)
+   [ 105] 8260368232  ❌  (TOKEN_FAIL)
+   [ 106] 8264428430  ❌  (TOKEN_FAIL)
+   [ 107] 8270209337  ❌  (TOKEN_FAIL)
+   [ 108] 8260357139  ❌  (TOKEN_FAIL)
+   [ 109] 8270209131  ❌  (TOKEN_FAIL)
+   [ 110] 8260363889  ❌  (TOKEN_FAIL)
+   [ 111] 8260355605  ❌  (TOKEN_FAIL)
+   [ 112] 8270202132  ❌  (TOKEN_FAIL)
+   [ 113] 8260360922  ❌  (TOKEN_FAIL)
+   [ 114] 8260362262  ❌  (TOKEN_FAIL)
+   [ 115] 8270208010  ❌  (TOKEN_FAIL)
+   [ 116] 8270213048  ❌  (TOKEN_FAIL)
+   [ 117] 8260358245  ❌  (TOKEN_FAIL)
+   [ 118] 8270201704  ❌  (TOKEN_FAIL)
+   [ 119] 8270208757  ❌  (TOKEN_FAIL)
+   [ 120] 8270208744  ❌  (TOKEN_FAIL)
+   [ 121] 8270207122  ❌  (TOKEN_FAIL)
+   [ 122] 8260368742  ❌  (TOKEN_FAIL)
+   [ 123] 8264427729  ❌  (TOKEN_FAIL)
+   [ 124] 8270201681  ❌  (TOKEN_FAIL)
+   [ 125] 8260361255  ❌  (TOKEN_FAIL)
+   [ 126] 8260363599  ❌  (TOKEN_FAIL)
+   [ 127] 8264427930  ❌  (TOKEN_FAIL)
+   [ 128] 8260364861  ❌  (TOKEN_FAIL)
+   [ 129] 8260357921  ❌  (TOKEN_FAIL)
+   [ 130] 8260367359  ❌  (TOKEN_FAIL)
+   [ 131] 8260355728  ❌  (TOKEN_FAIL)
+   [ 132] 8264428049  ❌  (TOKEN_FAIL)
+   [ 133] 8260356839  ❌  (TOKEN_FAIL)
+   [ 134] 8260362665  ❌  (TOKEN_FAIL)
+   [ 135] 8260365388  ❌  (TOKEN_FAIL)
+   [ 136] 8260367449  ❌  (TOKEN_FAIL)
+   [ 137] 8260362298  ❌  (TOKEN_FAIL)
+   [ 138] 8270206567  ❌  (TOKEN_FAIL)
+   [ 139] 8260362433  ❌  (TOKEN_FAIL)
+   [ 140] 8270206121  ❌  (TOKEN_FAIL)
+   [ 141] 8260364313  ❌  (TOKEN_FAIL)
+   [ 142] 8260359190  ❌  (TOKEN_FAIL)
+   [ 143] 8270206428  ❌  (TOKEN_FAIL)
+   [ 144] 8260355766  ❌  (TOKEN_FAIL)
+   [ 145] 8260366647  ❌  (TOKEN_FAIL)
+   [ 146] 8260364691  ❌  (TOKEN_FAIL)
+   [ 147] 8260366590  ❌  (TOKEN_FAIL)
+   [ 148] 8260358403  ❌  (TOKEN_FAIL)
+   [ 149] 8260359657  ❌  (TOKEN_FAIL)
+   [ 150] 8260358340  ❌  (TOKEN_FAIL)
+   [ 151] 8264428324  ❌  (TOKEN_FAIL)
+   [ 152] 8260361735  ❌  (TOKEN_FAIL)
+   [ 153] 8270207466  ❌  (TOKEN_FAIL)
+   [ 154] 8260356522  ❌  (TOKEN_FAIL)
+   [ 155] 8260361891  ❌  (TOKEN_FAIL)
+   [ 156] 8260361281  ❌  (TOKEN_FAIL)
+   [ 157] 8270205023  ❌  (TOKEN_FAIL)
+   [ 158] 8260361585  ❌  (TOKEN_FAIL)
+   [ 159] 8260366092  ❌  (TOKEN_FAIL)
+   [ 160] 8260361176  ❌  (TOKEN_FAIL)
+   [ 161] 8260359933  ❌  (TOKEN_FAIL)
+   [ 162] 8270206501  ❌  (TOKEN_FAIL)
+   [ 163] 8270208954  ❌  (TOKEN_FAIL)
+   [ 164] 8264427580  ❌  (TOKEN_FAIL)
+   [ 165] 8260360458  ❌  (TOKEN_FAIL)
+   [ 166] 8264427924  ❌  (TOKEN_FAIL)
+   [ 167] 8264427935  ❌  (TOKEN_FAIL)
+   [ 168] 8260357365  ❌  (TOKEN_FAIL)
+   [ 169] 8260363943  ❌  (TOKEN_FAIL)
+   [ 170] 8270204561  ❌  (TOKEN_FAIL)
+   [ 171] 8260364462  ❌  (TOKEN_FAIL)
+   [ 172] 8056826392  ❌  (TOKEN_FAIL)
+   [ 173] 8260366591  ❌  (TOKEN_FAIL)
+   [ 174] 8264429285  ❌  (TOKEN_FAIL)
+   [ 175] 8260367168  ❌  (TOKEN_FAIL)
+   [ 176] 8270212296  ❌  (TOKEN_FAIL)
+   [ 177] 8260357968  ❌  (TOKEN_FAIL)
+   [ 178] 8270212980  ❌  (TOKEN_FAIL)
+   [ 179] 8260356513  ❌  (TOKEN_FAIL)
+   [ 180] 8260355853  ❌  (TOKEN_FAIL)
+   [ 181] 8260369064  ❌  (TOKEN_FAIL)
+   [ 182] 8260363673  ❌  (TOKEN_FAIL)
+   [ 183] 8270203753  ❌  (TOKEN_FAIL)
+   [ 184] 8264428009  ❌  (TOKEN_FAIL)
+   [ 185] 8270212194  ❌  (TOKEN_FAIL)
+   [ 186] 8260366650  ❌  (TOKEN_FAIL)
+   [ 187] 8260366772  ❌  (TOKEN_FAIL)
+   [ 188] 8056825375  ❌  (TOKEN_FAIL)
+   [ 189] 8260365278  ❌  (TOKEN_FAIL)
+   [ 190] 8270212913  ❌  (TOKEN_FAIL)
+   [ 191] 8270201726  ❌  (TOKEN_FAIL)
+   [ 192] 8264428108  ❌  (TOKEN_FAIL)
+   [ 193] 8260357979  ❌  (TOKEN_FAIL)
+   [ 194] 8260361486  ❌  (TOKEN_FAIL)
+   [ 195] 8270211015  ❌  (TOKEN_FAIL)
+   [ 196] 8270211351  ❌  (TOKEN_FAIL)
+   [ 197] 8260368126  ❌  (TOKEN_FAIL)
+   [ 198] 8260367372  ❌  (TOKEN_FAIL)
+   [ 199] 8260355618  ❌  (TOKEN_FAIL)
+   [ 200] 8260355889  ❌  (TOKEN_FAIL)
+   [ 201] 8260355849  ❌  (TOKEN_FAIL)
+   [ 202] 8270212210  ❌  (TOKEN_FAIL)
+   [ 203] 8270202433  ❌  (TOKEN_FAIL)
+   [ 204] 8270205868  ❌  (TOKEN_FAIL)
+   [ 205] 8270204556  ❌  (TOKEN_FAIL)
+   [ 206] 8270211661  ❌  (TOKEN_FAIL)
+   [ 207] 8264429448  ❌  (TOKEN_FAIL)
+   [ 208] 8270209713  ❌  (TOKEN_FAIL)
+   [ 209] 8270208829  ❌  (TOKEN_FAIL)
+   [ 210] 8260362106  ❌  (TOKEN_FAIL)
+   [ 211] 8270201338  ❌  (TOKEN_FAIL)
+   [ 212] 8260366412  ❌  (TOKEN_FAIL)
+   [ 213] 8260362418  ❌  (TOKEN_FAIL)
+   [ 214] 8260366744  ❌  (TOKEN_FAIL)
+   [ 215] 8260355584  ❌  (TOKEN_FAIL)
+   [ 216] 8260364437  ❌  (TOKEN_FAIL)
+   [ 217] 8270202107  ❌  (TOKEN_FAIL)
+   [ 218] 8270213041  ❌  (TOKEN_FAIL)
+   [ 219] 8260357070  ❌  (TOKEN_FAIL)
+   [ 220] 8270201763  ❌  (TOKEN_FAIL)
+   [ 221] 8270212874  ❌  (TOKEN_FAIL)
+   [ 222] 8260361597  ❌  (TOKEN_FAIL)
+   [ 223] 8260358802  ❌  (TOKEN_FAIL)
+   [ 224] 8270212826  ❌  (TOKEN_FAIL)
+   [ 225] 8270212174  ❌  (TOKEN_FAIL)
+   [ 226] 8260363922  ❌  (TOKEN_FAIL)
+   [ 227] 8260364448  ❌  (TOKEN_FAIL)
+   [ 228] 8270205111  ❌  (TOKEN_FAIL)
+   [ 229] 8264427715  ❌  (TOKEN_FAIL)
+   [ 230] 8260361365  ❌  (TOKEN_FAIL)
+   [ 231] 8270212484  ❌  (TOKEN_FAIL)
+   [ 232] 8270207393  ❌  (TOKEN_FAIL)
+   [ 233] 8270211326  ❌  (TOKEN_FAIL)
+   [ 234] 8270206135  ❌  (TOKEN_FAIL)
+   [ 235] 8260358881  ❌  (TOKEN_FAIL)
+   [ 236] 8260355473  ❌  (TOKEN_FAIL)
+   [ 237] 8260359954  ❌  (TOKEN_FAIL)
+   [ 238] 8264427950  ❌  (TOKEN_FAIL)
+   [ 239] 8270211702  ❌  (TOKEN_FAIL)
+   [ 240] 8270205724  ❌  (TOKEN_FAIL)
+   [ 241] 8264428183  ❌  (TOKEN_FAIL)
+   [ 242] 8056826519  ❌  (TOKEN_FAIL)
+   [ 243] 8260364632  ❌  (TOKEN_FAIL)
+   [ 244] 8260362339  ❌  (TOKEN_FAIL)
+   [ 245] 8260362137  ❌  (TOKEN_FAIL)
+   [ 246] 8270203513  ❌  (TOKEN_FAIL)
+   [ 247] 8260361602  ❌  (TOKEN_FAIL)
+   [ 248] 8270206107  ❌  (TOKEN_FAIL)
+   [ 249] 8260363525  ❌  (TOKEN_FAIL)
+   [ 250] 8260364809  ❌  (TOKEN_FAIL)
+   [ 251] 8270204430  ❌  (TOKEN_FAIL)
+   [ 252] 8270205557  ❌  (TOKEN_FAIL)
+   [ 253] 8260366612  ❌  (TOKEN_FAIL)
+   [ 254] 8260364575  ❌  (TOKEN_FAIL)
+   [ 255] 8270202141  ❌  (TOKEN_FAIL)
+   [ 256] 8270205010  ❌  (TOKEN_FAIL)
+   [ 257] 8260364137  ❌  (TOKEN_FAIL)
+   [ 258] 8260366898  ❌  (TOKEN_FAIL)
+   [ 259] 8260358233  ❌  (TOKEN_FAIL)
+   [ 260] 8260364141  ❌  (TOKEN_FAIL)
+   [ 261] 8270209038  ❌  (TOKEN_FAIL)
+   [ 262] 8270201694  ❌  (TOKEN_FAIL)
+   [ 263] 8260360405  ❌  (TOKEN_FAIL)
+   [ 264] 8260368203  ❌  (TOKEN_FAIL)
+   [ 265] 8260355954  ❌  (TOKEN_FAIL)
+   [ 266] 8260364577  ❌  (TOKEN_FAIL)
+   [ 267] 8270207305  ❌  (TOKEN_FAIL)
+   [ 268] 8260358649  ❌  (TOKEN_FAIL)
+   [ 269] 8260357358  ❌  (TOKEN_FAIL)
+   [ 270] 8264428308  ❌  (TOKEN_FAIL)
+   [ 271] 8056825362  ❌  (TOKEN_FAIL)
+   [ 272] 8264428019  ❌  (TOKEN_FAIL)
+   [ 273] 8270208806  ❌  (TOKEN_FAIL)
+
+────────────────────────────────────────────────────────────────────
+📊 SUMMARY
+────────────────────────────────────────────────────────────────────
+   📁 Total akun dimuat           : 527
+   🔄 Total akun sudah pernah like: 0
+   🚀 Total akun fresh digunakan  : 527
+   ✅ TOTAL AKUN BERHASIL LIKE    : 254
+   ❌ Total akun gagal            : 273
+────────────────────────────────────────────────────────────────────
+   🎯 LIKE DIBERIKAN KE TARGET 1676656261 : +254
+====================================================================
+
+127.0.0.1 - - [19/Nov/2026 13:42:47] "GET /like?uid=1676656261&server_name=BD&key=MNSTR HTTP/1.1" 200 -
